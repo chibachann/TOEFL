@@ -1,2 +1,2 @@
 # TOEFL
-This is a repository for TOEFL reading and listening scripts.
+これはTOEFLのreading、listeningのスクリプトを保存するレポジトリです。
